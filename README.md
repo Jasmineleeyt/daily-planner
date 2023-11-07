@@ -17,10 +17,15 @@ Screenshot of the website:
 ![screenshot of a deployed app](./Assets/deployed-application.gif)
 
 ## Credits
-Starter code used for this project is from: https://github.com/coding-boot-camp/crispy-octo-meme
+Starter code used for this project is from: 
+https://github.com/coding-boot-camp/crispy-octo-meme
+
 jQuery: https://api.jquery.com/
+
 w3schools: https://www.w3schools.com/
-mozilla: https://developer.mozilla.org/en-US/
+
+Mozilla: https://developer.mozilla.org/en-US/
 
 ## License
+
 Please refer to the LICENSE in the repo.
